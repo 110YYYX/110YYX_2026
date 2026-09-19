@@ -28,5 +28,4 @@
 
 ## 运行截图与录屏
 
-- 版本截图：见 version.png
-- 运行录屏：见 turtlesim_demo.webm
+
